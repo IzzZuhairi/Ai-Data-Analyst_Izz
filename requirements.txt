@@ -1,0 +1,7 @@
+openai
+gradio
+plotly
+pandas
+reportlab
+kaleido
+python-docx
